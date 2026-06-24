@@ -16,7 +16,7 @@ This is intended to be backwards compatible with existing 3DP Bostons, though so
 # Upgrade guide (draft)
 
 ## What parts will I need? 
-What parts you will need will depend on which PCB version you have (the PCB version is written on the bottom left of the PCB, roughly near the F3 key):
+What parts you will need will depend on which PCB version you have (the PCB version is written on the bottom side left of the PCB, roughly near the F3 key):
 
 | PCB version       | Right-half needed                            | Can you easily install new key separators ? |
 | ----------------- | -------------------------------------------- | ------------------------------------------- |
